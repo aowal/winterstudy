@@ -1,5 +1,5 @@
 # winterstudy
-Winter Study of CVLAB@SNU. 
+Winter Study of Computer Vision Lab at Seoul National University. 
 
 Organizer: Jiwon Kim
 
