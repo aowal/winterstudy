@@ -33,7 +33,7 @@ TODO. What learning methods other than the standard supervised learning we need 
 1. Tensorflow
 2. Torch
 3. Theano
-4. Programming practice - making examples (cf. simple cnn/rnn exampels, spatial transformer, etc.)
+4. Programming practice - making examples (cf. simple cnn/rnn examples, spatial transformer, etc.)
 
 ### Paper Implementation
 
