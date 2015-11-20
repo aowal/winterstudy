@@ -3,7 +3,7 @@ Winter Study of Computer Vision Lab at Seoul National University.
 
 Organizer: Myungsub Choi, Jiwon Kim
 
-Members: Jiwon Kim, Myungsub Choi, Jung Kwon Lee (Let Jiwon know if interested to join)
+Members: Jiwon Kim, Myungsub Choi, Jung Kwon Lee, Janghoon Choi (Let Jiwon know if interested to join)
 
 # Plan 
 ## Conference track
